@@ -1,3 +1,4 @@
+extern crate hidapi;
 extern crate libusb;
 
 use std::process::exit;
